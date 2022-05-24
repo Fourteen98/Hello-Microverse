@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello-Microverse
+# Hello World
 
->This is my first repo from Microverse exercise and the goal for this project here is to master all of the tools and best practices I have learned about in previous excercises. 
+>This is my first project on my second day at Microverse and the goal for this project is to master all of the tools and best practices I have learned about in previous excercises. 
 
 ## Built With
 
@@ -12,11 +12,16 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Follow instruction at the RUN section to run the project.**
 
-
-To get a local copy up and running follow these simple example steps.
+### RUN Project
+#### - Clone project 
+```
+git clone https://github.com/Fourteen98/Hello-Microverse.git
+```
+#### - Open project directory and open index.html file with your prefered browser
+####  - Expect the image below when the page loads
+![Screenshot](screenshot.png)
 ## Authors
 
 👤 **Author1**
